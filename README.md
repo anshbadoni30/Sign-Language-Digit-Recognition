@@ -1,1 +1,1 @@
-# Sign-Language-Digit-Recognition-
+This project focuses on the development of a deep learning model to recognize digits represented in American Sign Language (ASL) from images. The model is built using the Keras Funcional API and involves several layers, including convolutional layers, pooling layers, and fully connected layers, designed to extract and learn features from the image
